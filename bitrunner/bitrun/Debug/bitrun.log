@@ -1,0 +1,108 @@
+﻿  Driver.cpp
+c:\users\ethan\source\repos\bitrunner\bitrun\driver.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\ethan\source\repos\bitrunner\bitrun\driver.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  Tile.cpp
+  Generating Code...
+  
+  Searching libraries
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-graphics-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-window-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-system-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-network-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-audio-d.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86\ucrtd.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-graphics-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-window-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-system-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-network-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-audio-d.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86\ucrtd.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-graphics-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-window-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-system-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-network-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-audio-d.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-graphics-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-window-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-system-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-network-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-audio-d.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-graphics-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-window-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-system-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-network-d.lib:
+      Searching C:\Users\ethan\source\SFML-2.5.1\lib\sfml-audio-d.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\msvcprtd.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\MSVCRTD.lib:
+  
+  Finished searching libraries
+  bitrun.vcxproj -> C:\Users\ethan\source\repos\bitrunner\Debug\bitrun.exe
